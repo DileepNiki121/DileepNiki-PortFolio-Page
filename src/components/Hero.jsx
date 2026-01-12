@@ -1,4 +1,3 @@
-import profile from "../assets/profile.jpg";
 
 function Hero() {
   return (
@@ -27,9 +26,11 @@ function Hero() {
         </div>
       </div>
 
+       {/* RIGHT */}
       <div className="hero-right">
         <div className="photo-circle">
-          <img src={profile} alt="Dileep" />
+          {/* ✅ THIS IS THE FIX */}
+          <img src="/MY_PHOTO.jpg" alt="Dileep Bhutham" />
         </div>
       </div>
     </section>
