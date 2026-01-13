@@ -307,3 +307,70 @@ body {
     font-size: 16px;
   }
 }
+/* =========================
+   MOBILE HERO FIX
+========================= */
+@media (max-width: 768px) {
+
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    padding: 80px 20px 40px;
+    gap: 25px;
+  }
+
+  .hero-left h1 {
+    font-size: 36px;
+    line-height: 1.2;
+  }
+
+  .hero-left h2 {
+    font-size: 30px;
+    line-height: 1.2;
+  }
+
+  .hero-left h3 {
+    font-size: 16px;
+    margin-top: 8px;
+  }
+
+  /* BUTTONS */
+  .hero-buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-top: 20px;
+  }
+
+  .hero-buttons a {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  /* SKILLS CHIPS */
+  .skills {
+    justify-content: center;
+    gap: 8px;
+    margin-top: 18px;
+  }
+
+  .skills span {
+    font-size: 12px;
+    padding: 6px 10px;
+  }
+
+  /* PHOTO */
+  .hero-right {
+    margin-top: 20px;
+  }
+
+  .photo-circle {
+    width: 220px;
+    height: 220px;
+  }
+
+  .photo-circle img {
+    width: 180px;
+    height: 180px;
+  }
+}
