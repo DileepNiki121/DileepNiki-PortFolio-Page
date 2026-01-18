@@ -1,7 +1,7 @@
 
 function Hero() {
   return (
-    <section id="hero" className="hero">
+<section id="home" className="hero">
       <div className="hero-left">
         <h1>Hello 👋</h1>
         <h2>
