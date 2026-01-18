@@ -67,7 +67,7 @@ body {
 .hero-buttons button {
   padding: 12px 18px;
   border-radius: 10px;
-  border: 1px solid #38bdf8;
+  border: 1px solid #8af10b;
   background: transparent;
   color: #38bdf8;
   cursor: pointer;
@@ -89,7 +89,7 @@ body {
 .skills span {
   background: #020617;
   border: 1px solid #38bdf8;
-  color: #38bdf8;
+  color: #ba5719;
   padding: 6px 12px;
   border-radius: 999px;
   font-size: 14px;

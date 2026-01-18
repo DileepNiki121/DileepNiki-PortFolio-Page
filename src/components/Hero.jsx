@@ -9,21 +9,23 @@ function Hero() {
         </h2>
         <h3>Application Support Engineer – Swiggy | Java Backend</h3>
 
-        <div className="hero-buttons">
-           <button className="btn-outline"><a href="#resume">My Resume</a></button> 
-             <button className="btn-outline"><a href="#experience">Experience</a></button> 
-             <button className="btn-outline"><a href="#projects">Projects</a></button> 
-              <button className="btn-outline"><a href="#education">Education</a></button> 
-                <button className="btn-outline"><a href="#contact">Contact Me</a></button> 
-        </div>
+     <div className="hero-buttons">
+  <a href="/resume.pdf" download className="btn primary">My Resume</a>
+  <a href="#experience" className="btn outline">Experience</a>
+  <a href="#projects" className="btn outline">Projects</a>
+  <a href="#education" className="btn outline">Education</a>
+  <a href="#contact" className="btn primary">Contact Me</a>
+</div>
 
-        <div className="skills">
-          <span>Java</span>
-          <span>Spring Boot</span>
-          <span>REST APIs</span>
-          <span>SQL</span>
-          <span>GitHub</span>
-        </div>
+
+     <div className="skills">
+  <span className="skill java">Java</span>
+  <span className="skill spring">Spring Boot</span>
+  <span className="skill api">REST APIs</span>
+  <span className="skill sql">SQL</span>
+  <span className="skill github">GitHub</span>
+</div>
+
       </div>
 
        {/* RIGHT */}
