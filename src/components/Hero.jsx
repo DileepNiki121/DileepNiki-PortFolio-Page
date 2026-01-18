@@ -7,7 +7,8 @@ function Hero() {
         <h2>
           I’m <span>Dileep Bhutham</span>
         </h2>
-        <h3>Application Support Engineer – Swiggy | Java Backend</h3>
+        <h3>Application Support Engineer (IT-Enabled) | Java • Spring Boot • SQL | Backend Projects
+</h3>
 
      <div className="hero-buttons">
   <a href="/resume.pdf" download className="btn primary">My Resume</a>
