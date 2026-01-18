@@ -10,7 +10,7 @@ function ResumeSection() {
         </p>
 
         <a
-          href="/resume/Dileep_Bhutham_Resume.pdf"
+          href="public/resume.pdf"
           download
           className="resume-btn"
         >

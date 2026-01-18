@@ -1,11 +1,20 @@
 function Experience() {
   return (
-    <section id="experience" className="section card">
-      <h4>💼 Experience</h4>
-      <p><b>Application Support Engineer – Swiggy</b></p>
-      <p>1.5 years handling L1 tickets, backend workflow, JSON, SLA</p>
-      
-      <span className="year">2024 – Present</span>
+    <section id="experience" className="section">
+      <h2 className="section-heading">Experience</h2>
+
+      <div className="cards-grid">
+
+        <div className="project-card">
+          <h3>Application Support Engineer – Swiggy</h3>
+          <p>
+            L1 ticket handling, backend workflow validation,
+            JSON analysis, SLA support.
+          </p>
+          <span className="card-year">2024 – Present</span>
+        </div>
+
+      </div>
     </section>
   );
 }

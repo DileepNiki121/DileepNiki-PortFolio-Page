@@ -254,3 +254,75 @@ body {
     display: flex;
   }
 }
+
+/* Section heading – same as Projects */
+.section-heading {
+  text-align: center;
+  font-size: 42px;
+  font-weight: 700;
+  color: #38bdf8;
+  margin-bottom: 50px;
+}
+
+.section {
+  padding: 80px 8%;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+}
+
+.project-card {
+  background: linear-gradient(145deg, #020617, #020617cc);
+  padding: 25px;
+  border-radius: 16px;
+  border-left: 4px solid #38bdf8;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-6px);
+}
+
+.project-card h3 {
+  color: #ffffff;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.project-card p {
+  color: #cbd5f5;
+  line-height: 1.6;
+}
+
+.card-year {
+  display: inline-block;
+  margin-top: 12px;
+  color: #94a3b8;
+  font-size: 14px;
+}
+
+.contact-card p {
+  margin-bottom: 16px;
+  color: #e5e7eb;
+  font-size: 16px;
+}
+
+.contact-card a {
+  color: #38bdf8;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.contact-card a:hover {
+  text-decoration: underline;
+}
+
+.contact-footer {
+  margin-top: 20px;
+  color: #cbd5f5;
+  font-size: 15px;
+}
