@@ -4,6 +4,14 @@ function Contact() {
       <h2 className="section-title">Contact Me</h2>
 
       <div className="contact-card">
+
+        <p className="contact-item">
+          📞 <span>Phone</span><br />
+          <a href="tel:9014527486">
+            +91 90145 27486
+          </a>
+        </p>
+
         <p className="contact-item">
           📧 <span>Email</span><br />
           <a href="mailto:dileepbhutham@gmail.com">
@@ -16,6 +24,7 @@ function Contact() {
           <a
             href="https://github.com/DileepNiki121"
             target="_blank"
+            rel="noreferrer"
           >
             github.com/DileepNiki121
           </a>
@@ -24,12 +33,14 @@ function Contact() {
         <p className="contact-item">
           🔗 <span>LinkedIn</span><br />
           <a
-            href="https://linkedin.com/in/dileep-bhutham"
+            href="https://www.linkedin.com/in/dileep-bhutham-067352296/"
             target="_blank"
+            rel="noreferrer"
           >
             linkedin.com/in/dileep-bhutham
           </a>
         </p>
+
       </div>
 
       <p className="contact-footer">
