@@ -27,18 +27,26 @@ function Experience() {
 </div>
 
         {/* Internship & Training */}
-        <div className="project-card">
-          <h3>Java Lab Intern – Full Stack Java Program</h3>
-          <p><strong>Naresh i Technologies</strong>, Hyderabad</p>
-          <p>📅 Nov 2022 – Apr 2023 (6 Months)</p>
+       <div className="project-card">
+  <h3>Java Lab Intern – Full Stack Java Program</h3>
+  <p><strong>Naresh i Technologies</strong>, Hyderabad</p>
+  <p>📅 Nov 2022 – Apr 2023 (6 Months)</p>
 
-          <ul>
-            <li>Assisted students with Core Java, OOP, JDBC, Spring Boot</li>
-            <li>Debugged code issues weekly to improve success rates</li>
-            <li>Guided peers on Git & GitHub workflows</li>
-            <li>Built CRUD backend mini projects using Spring Boot & Oracle SQL</li>
-          </ul>
-        </div>
+  <ul>
+    <li>Completed <strong>full-stack Java training</strong> covering Core Java, OOP, JDBC, and Spring Boot</li>
+    <li>Worked on multiple <strong>core Java and backend mini projects</strong> with real-time use cases</li>
+    <li>Developed CRUD-based applications using <strong>Spring Boot & Oracle SQL</strong></li>
+    <li>Learned backend architecture, request handling, and REST API concepts</li>
+    <li>Debugged Java code regularly and improved logical problem-solving skills</li>
+    <li>Guided and supported fellow students in understanding Java concepts</li>
+    <li>Collaborated with mentors to improve project structure and coding standards</li>
+    <li>Gained hands-on experience with <strong>Git & GitHub</strong> version control workflows</li>
+  </ul>
+
+  <p>
+    <strong>Skills Gained:</strong> Core Java, OOP, JDBC, Spring Boot, REST APIs, Oracle SQL, Git, GitHub
+  </p>
+</div>
 
       </div>
     </section>
