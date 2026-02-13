@@ -7,7 +7,7 @@ function Hero() {
         <h2>
           I’m <span>Dileep Bhutham</span>
         </h2>
-        <h3>Application Support Engineer (IT-Enabled) | Java • Spring Boot • SQL | Backend Projects
+        <h3>Application Support Executive (L1) | Aspiring Java Full Stack Developer | Java | Spring Boot |
 </h3>
 
      <div className="hero-buttons">
