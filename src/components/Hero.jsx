@@ -7,11 +7,12 @@ function Hero() {
         <h2>
           I’m <span>Dileep Bhutham</span>
         </h2>
-        <h3>Application Support Engineer (IT-Enabled) | Java • Spring Boot • SQL | Backend Projects
+        <h3>Application Support Executive (L1) | Aspiring Java Full Stack Developer | Java | Spring Boot |
+MySQL | REST APIs | Built Web Applications
 </h3>
 
      <div className="hero-buttons">
-  <a href="/resume.pdf" download className="btn primary">My Resume</a>
+  <a href="/Feb2026Resume.pdf" download className="btn primary">My Resume</a>
   <a href="#experience" className="btn outline">Experience</a>
   <a href="#projects" className="btn outline">Projects</a>
   <a href="#education" className="btn outline">Education</a>
