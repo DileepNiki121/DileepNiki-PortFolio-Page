@@ -22,9 +22,12 @@ function Hero() {
      <div className="skills">
   <span className="skill java">Java</span>
   <span className="skill spring">Spring Boot</span>
-  <span className="skill api">REST APIs</span>
+<span className="skill api"> REST APIs (Postman) </span>
   <span className="skill sql">SQL</span>
-  <span className="skill github">GitHub</span>
+  <span className="skill frontend">HTML / CSS / JavaScript / React </span>
+<span className="skill github">GitHub</span>
+ <span className="skill crm"> CRM Tools (Salesforce)
+</span>
 </div>
 
       </div>
