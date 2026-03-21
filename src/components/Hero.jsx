@@ -12,7 +12,7 @@ MySQL | REST APIs | Built Web Applications
 </h3>
 
      <div className="hero-buttons">
-  <a href="/Feb2026Resume.pdf" download className="btn primary">My Resume</a>
+  <a href="/MarchResume2026.pdf" download className="btn primary">My Resume</a>
   <a href="#experience" className="btn outline">Experience</a>
   <a href="#projects" className="btn outline">Projects</a>
   <a href="#education" className="btn outline">Education</a>
